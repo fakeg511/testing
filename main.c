@@ -2,9 +2,10 @@
 
 int main()
 {
-	int x = 20, i;
-	for(i = 0; i < x; ++i)
-		printf("%i\n", x);
+	//ballz
+	int i;
+	for(i = 0; i < 20; ++i)
+		printf("%i ballz!\n", i);
 
 	return 0;
 }
